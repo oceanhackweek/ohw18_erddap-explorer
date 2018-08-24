@@ -1,0 +1,15 @@
+name: erddap_explorer
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - appmode
+  - bqplot
+  - erddapy
+  - ipyleaflet
+  - ipywidgets
+  - jupyter
+  - pandas
+  - pendulum
+  - requests
+
